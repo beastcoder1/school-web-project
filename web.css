@@ -1,0 +1,34 @@
+body{
+  background-image: url("rec.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.logo{
+  padding-left: 47%;
+  margin-bottom: 50%;
+  margin-top: 50%;
+  font: calibri;
+  color: #34433C;
+
+}
+
+.selectDiv{
+  padding-left: 47%;
+  padding-top: 50%;
+}
+.header{
+  margin-top: 5px;
+  text-align: center;
+  color: #34433C;
+}
+
+input[type=submit]{
+  width: 95px;
+  height: auto;
+  background-color: #DAFFEE;
+  color: #34433C;
+  border-top-left-radius: 25%;
+  border-top-right-radius: 25%;
+  border-bottom-left-radius: 25%;
+  border-bottom-right-radius: 25%;
+}
